@@ -1,10 +1,13 @@
-PROJ_NAME = Blinky
+PROJ_NAME = Temp_sensing
 
 BUILD_DIR = Build
 
 # All Source code files
 SRC = project_main.c\
-src/user_utils.c
+src/act11.c\
+src/act22.c\
+src/act33.c\
+src/usart.c
 
 # All header file paths
 INC = -I inc
