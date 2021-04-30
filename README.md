@@ -2,7 +2,8 @@
 ## In Action
 |ON|OFF|
 |:--:|:--:|
-|![Led_off](https://github.com/BharaniSurya/Emb-C/blob/main/simulation/led_off.jpeg)|![Led_off](https://github.com/BharaniSurya/Emb-C/blob/main/simulation/led_on.jpeg)|![below_thresh](https://github.com/BharaniSurya/Emb-C/blob/main/simulation/below_thresh.jpeg)|![above_thresh](https://github.com/BharaniSurya/Emb-C/blob/main/simulation/above_thresh.jpeg)|
+|![Led_off](https://github.com/BharaniSurya/Emb-C/blob/main/simulation/led_off.jpeg)|![Led_off](https://github.com/BharaniSurya/Emb-C/blob/main/simulation/led_on.jpeg)|
+|![below_thresh](https://github.com/BharaniSurya/Emb-C/blob/main/simulation/below_thresh.jpeg)|![above_thresh](https://github.com/BharaniSurya/Emb-C/blob/main/simulation/above_thresh.jpeg)|
 ### CI and Code Quality
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
