@@ -1,6 +1,6 @@
 /**
  * @file project_main.c
- * @author Bharani Surya S 
+ * @author Bharani Surya S ()
  * @brief Heat sensing device
  * @version 0.1
  * @date 2021-04-29

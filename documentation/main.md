@@ -1,1 +1,1 @@
-@mainpage Blinky Example by Bharath G @subpage project_main.c
+@mainpage heat sensing project by bharani surya s @subpage project_main.c
