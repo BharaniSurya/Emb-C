@@ -17,11 +17,12 @@
 #include "act33.h"
 int main(void)
 {
+ uint16_t temp;
  act1();
  Activity3();
 
 InitADC();
-uint16_t temp;
+
 USARTInit(103);
 int i;
 while(1)
@@ -41,7 +42,7 @@ while(1)
     _delay_ms(200);
 
 
-      if(temp>=0&&temp<=200)
+      if(temp<=200)
 {
     OCR0A = 51;
      _delay_ms(2000);
@@ -63,7 +64,7 @@ else
 }
 
 
-    if(temp>=0&&temp<=200)
+    if(temp<=200)
     {
         unsigned char op1[]="Temperature is 20°C";
         i=0;
