@@ -1,4 +1,4 @@
-# LED Blinking 
+# Temperature Sensing
 ## In Action
 |ON|OFF|
 |:--:|:--:|
